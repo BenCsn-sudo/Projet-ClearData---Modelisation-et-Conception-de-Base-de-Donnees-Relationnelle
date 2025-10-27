@@ -94,5 +94,12 @@ Requête qui liste les titres et dates des rapports traitant des concentrations 
 
 ---
 
-## 📂 Structure du Dépôt
+## 📚 Résultats & Apprentissage
+
+Ce projet m’a permis de :
+- maîtriser la **modélisation de bases de données relationnelles**,  
+- comprendre la logique des **formes normales et contraintes d’intégrité**,  
+- automatiser la **génération et l’exploitation de données**,  
+- et appliquer concrètement la **méthode Merise** dans un cadre professionnel.
+
 
