@@ -74,7 +74,11 @@ L’objectif final :
 - 📈 **Calculer la moyenne annuelle des concentrations par gaz.**  
 - ⚙️ **Comparer le nombre de capteurs et de personnels** par région.  
 
-![Exemple de requête SQL](./images/sql_query.png)
+<p align="center">
+  <img src="./images/sql_query.png" alt="MCD - ClearData" width="600"/>
+</p>
+Requête qui liste les titres et dates des rapports traitant des concentrations d'ammoniac (NH₃), triés du plus récent au plus ancien !
+
 
 ---
 
