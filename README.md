@@ -1,4 +1,5 @@
 # Projet ClearData – Modélisation et Conception d’une Base de Données Relationnelle
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contexte du Projet
 
