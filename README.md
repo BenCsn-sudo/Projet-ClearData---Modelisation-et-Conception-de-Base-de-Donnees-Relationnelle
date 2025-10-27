@@ -36,6 +36,8 @@ L’objectif final :
 1. **Analyse du besoin et Dictionnaire de Données**  
    - Définition de tous les attributs nécessaires (code, désignation, type, taille, etc.)  
    - Identification des dépendances fonctionnelles.
+  
+   ![Dictionnaire de Données](./images/dictionnaire.png)
 
 2. **Modèle Conceptuel de Données (MCD)**  
    - Regroupement des attributs en entités et associations.  
