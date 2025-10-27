@@ -54,7 +54,7 @@ L’objectif final :
 5. **Modèle Physique de Données (MPD)**  
    - Traduction en langage SQL (types de données, contraintes, clés composées).  
 
-   ![Modèle Physique de Données](./images/mpd_cleardata.png)
+   ![Modèle Physique de Données](./mpd.sql)
 
 6. **Implémentation et Peuplement de la Base**  
    - Génération de 100 employés, 18 agences, 100 capteurs et 19 gaz différents.  
